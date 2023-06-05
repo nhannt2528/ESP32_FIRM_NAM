@@ -1,0 +1,10 @@
+{
+    "token": "QFhCS8a76zYjIJVkoXuU",
+    "id": "fe5a8e10-cc79-11ed-86eb-ad5a639611e9",
+    "dhcp": true,
+    "local_ip": "192.168.1.103",
+    "gateway": "192.168.1.1",
+    "subnet": "255.255.255.0",
+    "dns1": "8.8.8.8",
+    "dns2": "8.8.4.4"
+}

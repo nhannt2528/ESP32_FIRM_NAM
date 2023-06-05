@@ -1,0 +1,90 @@
+{
+    "data": [
+        {
+            "id": 773,
+            "device_id": "fe5a8e10-cc79-11ed-86eb-ad5a639611e9",
+            "action": {
+                "power_1": "dải"
+            },
+            "enable": true,
+            "name": "dd",
+            "interval": "0,1,2,3,4,5,6",
+            "time": "19:12",
+            "start_date": "2023-03-27",
+            "end_date": "2023-03-27",
+            "type": "period"
+        },
+        {
+            "id": 835,
+            "device_id": "fe5a8e10-cc79-11ed-86eb-ad5a639611e9",
+            "action": {
+                "power_3": "true"
+            },
+            "enable": true,
+            "name": "test",
+            "interval": "0,1,2,3,4,5,6",
+            "time": "00:39",
+            "start_date": "2023-04-14",
+            "end_date": "2023-04-14",
+            "type": "period"
+        },
+        {
+            "id": 836,
+            "device_id": "fe5a8e10-cc79-11ed-86eb-ad5a639611e9",
+            "action": {
+                "power_4": "true"
+            },
+            "enable": true,
+            "name": "tset",
+            "interval": "0,1,2,3,4,5,6",
+            "time": "00:40",
+            "start_date": "2023-04-14",
+            "end_date": "2023-04-14",
+            "type": "period"
+        },
+        {
+            "id": 860,
+            "device_id": "fe5a8e10-cc79-11ed-86eb-ad5a639611e9",
+            "action": {
+                "power_2": "true"
+            },
+            "enable": true,
+            "name": "zsx",
+            "interval": "4,5,6",
+            "time": "16:58",
+            "start_date": "2023-04-15",
+            "end_date": "2023-04-15",
+            "type": "interval"
+        },
+        {
+            "id": 861,
+            "device_id": "fe5a8e10-cc79-11ed-86eb-ad5a639611e9",
+            "action": {
+                "power_4": "true",
+                "power_5": "true"
+            },
+            "enable": true,
+            "name": "jj",
+            "interval": "4,5,6",
+            "time": "17:20",
+            "start_date": "2023-04-15",
+            "end_date": "2023-04-15",
+            "type": "interval"
+        },
+        {
+            "id": 868,
+            "device_id": "fe5a8e10-cc79-11ed-86eb-ad5a639611e9",
+            "action": {
+                "power_4": "true",
+                "power_5": "true"
+            },
+            "enable": true,
+            "name": "test",
+            "interval": "1",
+            "time": "15:01",
+            "start_date": "2023-04-17",
+            "end_date": "2023-04-17",
+            "type": "interval"
+        }
+    ]
+}

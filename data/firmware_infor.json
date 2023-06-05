@@ -1,0 +1,8 @@
+{
+    "fw_title": "test_ota",
+    "fw_version": "1.0",
+    "fw_tag": "test_ota 1.0",
+    "fw_size": 931536,
+    "fw_checksum_algorithm": "SHA256",
+    "fw_checksum": "91df49ac97871b8d79459e55b0b64ad80f5f0b24e6762295603c96c90854849f"
+}
